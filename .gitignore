@@ -4,3 +4,7 @@
 
 /.vs/DiscipleBadges
 /.vs
+/DiscipleBadges/DiscipleBadges/bin/Debug/net9.0
+/DiscipleBadges/DiscipleBadges/obj
+/DiscipleBadges/DiscipleBadges.Client/bin/Debug/net9.0
+/DiscipleBadges/DiscipleBadges.Client/obj
